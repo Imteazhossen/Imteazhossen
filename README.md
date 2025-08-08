@@ -19,7 +19,31 @@
 
 📫 Reach me at: **imteaz.hossen693@gmail.com**
 
----
+## 👋 About Me
+
+Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web Developer** and final-year **Computer Science & Engineering** student.
+
+🔧 I work with:
+- **Frontend:** React.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, REST API, JWT, Netlify, Vercel
+
+🚀 I specialize in:
+- Building modern, responsive web apps
+- Developing secure RESTful APIs
+- Implementing authentication and role-based access
+- Full project deployment and version control
+
+🧠 I love:
+- Clean, maintainable code
+- Solving real-world problems
+- Learning new tech and frameworks
+
+📫 Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/imteaz-hossen/) 
+
+
 
 ### 🚀 Tech Stack
 
