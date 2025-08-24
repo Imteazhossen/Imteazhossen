@@ -18,6 +18,7 @@
 💬 Ask me about **React, JavaScript, or Firebase integration**
 
 📫 Reach me at: **imteaz.hossen693@gmail.com**
+   Whatsapp: **+880 1621189202**
 
 ## 👋 About Me
 
@@ -41,7 +42,9 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 - Learning new tech and frameworks
 
 📫 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/imteaz-hossen/) 
+- [LinkedIn](https://www.linkedin.com/in/imteaz-hossen/)
+- [LinkedIn](https://md-imteaz-hossen693.netlify.app/)
+
 
 
 
