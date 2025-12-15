@@ -42,7 +42,7 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 - Learning new tech and frameworks
 
 📫 Let’s connect:
-- [LinkedIn](www.linkedin.com/in/md-imteaz)
+- [LinkedIn](https://www.linkedin.com/in/md-imteaz/)
 - [Portfolio](https://imteaz-hossen.netlify.app/)
 
 
