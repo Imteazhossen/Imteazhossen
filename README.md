@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
+<img src="https://i.ibb.co.com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Md. Imteaz Hossen</h1>
 <h3 align="center">🚀 MERN Stack Developer | Final-Year CSE Student | Problem Solver</h3>
