@@ -47,9 +47,10 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 
 ### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,c,python,firebase,git,vscode" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imteazhossen&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
+
 
 ---
 
