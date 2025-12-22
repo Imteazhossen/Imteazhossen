@@ -1,10 +1,10 @@
-<img src="https://i.ibb.co.com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
+<img src="https://i.ibb.co/com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Md. Imteaz Hossen</h1>
 <h3 align="center">🚀 MERN Stack Developer | Final-Year CSE Student | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imteazhossen&label=Profile%20views&color=0e75b6&style=flat](https://i.ibb.co.com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="imteazhossen" />
+  <img src="https://komarev.com/ghpvc/?username=imteazhossen&label=Profile%20views&color=0e75b6&style=flat" alt="imteazhossen" />
 </p>
 
 ---
@@ -45,9 +45,6 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 - [LinkedIn](https://www.linkedin.com/in/md-imteaz/)
 - [Portfolio](https://imteaz-hossen.netlify.app/)
 
-
-
-
 ### 🚀 Tech Stack
 
 <p align="left">
@@ -78,5 +75,12 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Imteazhossen&show_icons=true&theme=radical" />
+</p>
 
+---
+
+### 📅 GitHub Contribution Streak
+
+<p align="center">
+  <img src="/mnt/data/2e023f8a-5b26-46ec-8d8a-a951a97457d8.png" alt="GitHub Streak" width="100%" />
 </p>
