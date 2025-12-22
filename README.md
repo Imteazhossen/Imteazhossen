@@ -82,6 +82,6 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 ### 📅 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://your-image-hosting-url.com/your-uploaded-image.png" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imteazhossen&theme=radica" alt="GitHub Streak" width="100%" />
 </p>
 
