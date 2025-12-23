@@ -78,6 +78,6 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Imteazhossen&show_icons=true&theme=radical" />
-  <img src="GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imteazhossen&theme=radical" />
-
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Imteazhossen" alt="GitHub Streak" /></a>
