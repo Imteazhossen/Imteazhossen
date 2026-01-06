@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co.com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Md. Imteaz Hossen</h1>
-<h3 align="center">🚀 MERN Stack Developer | Final-Year CSE Student | Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | CSE Graduate | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imteazhossen&label=Profile%20views&color=0e75b6&style=flat](https://i.ibb.co.com/mVX7d234/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="imteazhossen" />
