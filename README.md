@@ -68,7 +68,7 @@ Hi, I’m **Imteaz Hossen** – a passionate and results-driven **Full-Stack Web
 
 ### ⚡ Fun Facts
 - 🌍 Based in Dhaka, Bangladesh
-- 🎓 Final-year BSc student in CSE at ULAB
+- 🎓 CSE Graduate 
 - 🎨 I create animations using After Effects
 - 🧠 I love solving real-world problems with code
 - 📦 I built **ZapShip** – a full-stack parcel management platform
